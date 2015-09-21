@@ -21,7 +21,7 @@ import static org.mockito.Mockito.atLeastOnce;
 import static org.mockito.Mockito.times;
 
 public class PersonControllerTest {
-	
+/*	
 	@Mock
 	private PersonService personService;
 	
@@ -82,6 +82,6 @@ public class PersonControllerTest {
 		
 		
 	}
-	
+	*/
 
 }
